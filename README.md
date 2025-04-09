@@ -6,10 +6,10 @@ Este repositório contém diversos projetos de aprendizado de máquina desenvolv
 
 ## 📁 Estrutura do Repositório
 
-- [`titanic_pytorch/`](./titanic_pytorch)  
+- [`titanic_pytorch/`](./titanic_tensorflow)  
   Previsão de sobrevivência no Titanic usando PyTorch e uma interface com Streamlit.
 
-- [`titanic_tensorflow/`](./titanic_tensorflow)  
+- [`titanic_tensorflow/`](./titanic_pytorch_streamlit)  
   Versão do modelo Titanic utilizando TensorFlow.
 
 - [`regression_models/`](./regression_models)  
