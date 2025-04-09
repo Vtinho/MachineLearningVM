@@ -1,19 +1,34 @@
-# Titanic Survival Prediction 🚢 (PyTorch + Streamlit)
+# Machine Learning Projects 🚀
 
-Este projeto utiliza **PyTorch** para treinar um modelo de Machine Learning que prevê a sobrevivência de passageiros do Titanic. Além disso, foi criada uma **interface com Streamlit** para testar previsões de forma interativa.
+Este repositório contém diversos projetos de aprendizado de máquina desenvolvidos com **PyTorch**, **TensorFlow**, e **Streamlit**. A ideia é estudar, aplicar e visualizar algoritmos clássicos em diferentes contextos de Data Science, como classificação e regressão.
 
-## 🔧 Tecnologias utilizadas
+---
+
+## 📁 Estrutura do Repositório
+
+- [`titanic_pytorch/`](./titanic_pytorch)  
+  Previsão de sobrevivência no Titanic usando PyTorch e uma interface com Streamlit.
+
+- [`titanic_tensorflow/`](./titanic_tensorflow)  
+  Versão do modelo Titanic utilizando TensorFlow.
+
+- [`regression_models/`](./regression_models)  
+  Modelos de regressão aplicados ao conjunto de dados Boston Housing com PyTorch e TensorFlow.
+
+---
+
+## 🛠 Tecnologias Usadas
 
 - Python
 - PyTorch
-- Pandas
+- TensorFlow
 - Scikit-learn
+- Pandas / NumPy
 - Streamlit
+- Matplotlib / Seaborn
 
-## 🚀 Como rodar
+---
 
-1. Clone o repositório:
+## 🚧 Em desenvolvimento
 
-```bash
-git clone https://github.com/Vtinho/MachineLearningVM.git
-cd titanic-pytorch-streamlit
+Este repositório está em constante atualização com novos projetos e melhorias.
