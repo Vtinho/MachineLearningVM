@@ -15,5 +15,5 @@ Este projeto utiliza **PyTorch** para treinar um modelo de Machine Learning que 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Vtinho/MachineLearning.git
+git clone https://github.com/Vtinho/MachineLearningVM.git
 cd titanic-pytorch-streamlit
